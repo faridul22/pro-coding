@@ -4,6 +4,14 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.bg {
+    background-color: #289BDE;
+}
+
+.elearning-institute-details {
+    background-color: #F4FAFD;
+}
+
 .join-section {
     background-color: #289BDE;
 }
